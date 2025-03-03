@@ -3,6 +3,7 @@ body {
     background-color: cornflowerblue;
 }
 p {
+    text-align: center;
     color: white;
     font-size: 20px;
 }
